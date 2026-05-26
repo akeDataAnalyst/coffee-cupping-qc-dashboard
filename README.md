@@ -7,9 +7,8 @@
 
 ## Project Description
 
-This is a professional Coffee Cupping QC Dashboard designed to simulate a modern coffee laboratory system. 
+This is a professional Coffee Cupping QC Dashboard designed to simulate a modern coffee laboratory system. It allows users to record, analyze, visualize, and report sensory evaluation results using SCA (Specialty Coffee Association) protocols
 
-It allows users to record, analyze, visualize, and report sensory evaluation results using SCA (Specialty Coffee Association) protocols
 ---
 
 ## Problem Statement
